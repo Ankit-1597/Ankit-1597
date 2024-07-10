@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ankit
-- 👀 I’m interested in BigData and distrbuted systems.
+- 👀 I’m interested in BigData and distributed systems.
 - 📫 How to reach me thakur.ankit86@gmail.com
 
 <!---
