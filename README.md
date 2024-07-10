@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ankit
-- 👀 I’m interested in Data and Spark
-- 🌱 I’m currently learning Artificial Intelligence
+- 👀 I’m interested in BigData and distrbuted systems.
 - 📫 How to reach me thakur.ankit86@gmail.com
 
 <!---
